@@ -1,0 +1,42 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# IntelliJ IDEA files
+.idea/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Maven files
+target/
+
+# Gradle files
+build/
+.gradle/
+
+# IntelliJ IDEA
+*.iml
+*.iws
+*.ipr
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# JUnit testing framework
+/.idea/libraries/
+/.idea_modules/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
